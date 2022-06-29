@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document- huiswerk Les 12 */
+#bloemensoort{
+	background-color: darkcyan;
+	color:white;
+	}
+
+body{
+	background-color: cornsilk;
+}
+
+h2{
+	color:darkgreen;
+}
+
+h3{
+	color:darkseagreen;
+}
+
+footer{
+	background-color: darkgray;
+	color:white;
+}
+
+.een{
+	background-color:yellowgreen;
+}
+
+.twee{
+	background-color:violet;
+}
+
+.drie{
+	background-color:turquoise;
+}
+.vier{
+	background-color:aquamarine;
+}
+
+.vijf{
+	background-color: cadetblue;
+}
+
+.zes{
+	background-color: cornflowerblue;
+}
+
+.zeven{
+	background-color: darkkhaki;
+}
+
+.acht{
+	background-color:#FFFFFF;
+}
+
+.negen{
+	background-color: #FFFFCC;
+}
+
+.tien{
+	background-color: #FFFF99;
+}
+
+.elf{
+	background-color: #FFFF66;
+}
+
+.twaalf{
+	background-color: #FFCCFF;
+}
+
+.dertien{
+	background-color: #FFCCCC;
+}
+
+.veertien{
+	background-color: #FFCC99;
+}
+
+.vijftien{
+	background-color: #FFCC66;
+}
